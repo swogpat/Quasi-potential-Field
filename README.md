@@ -20,6 +20,7 @@ such as neurons (Lidov, Byers, Watkins, and Kunkel 1990) and leukocytes (Rambeau
 and Oliver 2003). For subjects, it describes the trend to approach specific targets during the interaction
 with environments. As an ubiquitous element in psychology, biophysics and socio-physics, motivation has
 become the basis of many theories.  
+  
 On a macro scale, motivation is one of the core parameters for describing the dynamics of biological communities.
 Previous researches mainly focused on modelling the dynamics induced by specific motivations,
 which indicated the explicit effects of them. For instance, with the motivation of avoiding predators, preyflocks
@@ -28,7 +29,8 @@ could be simulated by the molecular dynamics in a two-dimensional continuum mode
 2006). Another example showed that using a phenomenological model, it could be found that there exists
 a highly concerted, collective motion of birds when they want to land (Daruka 2008). However, while
 analysing the mechanisms resulted from motivations clearly, existing studies didn’t take the strict, quantitative
-definitions of motivations into consideration.  
+definitions of motivations into consideration.   
+  
 On an individual scale, motivation shapes the survival, reproduction and decision-making process. In cognition
 science, the role of internal motivation in the decision-making process has been explored at both the
 behavioural level (Kuhl 1986, Finn 2002) and the neutral level (Satoh, Nakai, Sato, and Kimura 2003). It
@@ -39,6 +41,7 @@ distributed signals relevant with them in human brains (Maunsell 2004), which, i
 the human-level intelligence is equipped with the ability to response to targets in real time. The researches
 in this field went deeply into the biological foundation of motivation, but the labile and complex pattern
 behind the motivation limited the mathematical modelling.  
+  
 On the micro scale, motivation defines the formation, migration and patterning of cells and other soft matters.
 Regulated by different chemicals, cells or molecules are encoded with different functions. Those chemicals
 works as motivations and shape the pattern of how those cells or molecules form the whole system. Based on
@@ -50,6 +53,7 @@ Mendelsohn, and Jessell 1998). To simulate those properties, a growing number of
 have been established from the perspective of network dynamics versus topology (Massobrio and Martinoia
 2008), statistical fluctuation (Ishii, Ishikawa, Fujita, and Nakazawa 2004) and so on. Using them, we can
 analysis the dynamics induced by motivations phenomenologically.  
+  
 To sum up, we can draw a conclusion that on different scales, previous researches have explored the mechanisms behind motivations and the dynamical phenomenons shaped by them. However, it still reminds controversial how to simulate motivations directly. To address this valuable question, we start a new research.
 The main ideas, which are also the main contributions, of our research are as following:  
 - Simulate motivations based on their spatial distributions within physical spaces. The quantitative
